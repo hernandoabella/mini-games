@@ -1,0 +1,64 @@
+2026-01-14T20:27:41.824243Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2026-01-14T20:27:41.824449Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "G:\\GitHub\\mini-games", pattern: "**/*", negated: false }
+2026-01-14T20:27:41.824745Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2026-01-14T20:27:41.824771Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "G:\\GitHub\\mini-games" }
+2026-01-14T20:27:41.826922Z  INFO scan_sources: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.828292Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\app"
+2026-01-14T20:27:41.828478Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\app\\globals.css"
+2026-01-14T20:27:41.829971Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\app\\layout.tsx"
+2026-01-14T20:27:41.830073Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\app\\page.tsx"
+2026-01-14T20:27:41.830184Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\eslint.config.mjs"
+2026-01-14T20:27:41.830264Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\next.config.ts"
+2026-01-14T20:27:41.830513Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\package.json"
+2026-01-14T20:27:41.830589Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\postcss.config.mjs"
+2026-01-14T20:27:41.830699Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\public"
+2026-01-14T20:27:41.830867Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\public\\file.svg"
+2026-01-14T20:27:41.830938Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\public\\globe.svg"
+2026-01-14T20:27:41.831009Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\public\\next.svg"
+2026-01-14T20:27:41.831080Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\public\\vercel.svg"
+2026-01-14T20:27:41.831148Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\public\\window.svg"
+2026-01-14T20:27:41.831238Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\README.md"
+2026-01-14T20:27:41.831303Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\tsconfig.json"
+2026-01-14T20:27:41.831379Z  INFO scan_sources: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.831391Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.831398Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.831405Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 13 file(s)
+2026-01-14T20:27:41.831886Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\app\\layout.tsx"
+2026-01-14T20:27:41.831911Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\public\\file.svg"
+2026-01-14T20:27:41.831917Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\next.config.ts"
+2026-01-14T20:27:41.831910Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\app\\page.tsx"
+2026-01-14T20:27:41.831961Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\public\\vercel.svg"
+2026-01-14T20:27:41.832007Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\tsconfig.json"
+2026-01-14T20:27:41.832008Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\README.md"
+2026-01-14T20:27:41.832042Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\public\\globe.svg"
+2026-01-14T20:27:41.832051Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\postcss.config.mjs"
+2026-01-14T20:27:41.832064Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\public\\window.svg"
+2026-01-14T20:27:41.832065Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\eslint.config.mjs"
+2026-01-14T20:27:41.832076Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\package.json"
+2026-01-14T20:27:41.832133Z  INFO tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\public\\next.svg"
+2026-01-14T20:27:41.832178Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.832189Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.832194Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.832882Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.832895Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.832900Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.832903Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2026-01-14T20:27:41.832976Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "G:\\GitHub\\mini-games\\app\\globals.css"
+2026-01-14T20:27:41.832985Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.833003Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.833009Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.833102Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.833117Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.833446Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.833637Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.833646Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.834870Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\app"
+2026-01-14T20:27:41.835465Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\public"
+2026-01-14T20:27:41.835800Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.835915Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.836003Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.836011Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2026-01-14T20:27:41.837111Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\app"
+2026-01-14T20:27:41.837677Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "G:\\GitHub\\mini-games\\public"
+2026-01-14T20:27:41.838011Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2026-01-14T20:27:41.840319Z  INFO get_globs: tailwindcss_oxide::scanner: exit
