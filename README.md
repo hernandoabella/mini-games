@@ -1,2 +1,2 @@
-# Mini-games
-- **Stop The Bomb:** https://www.github.com/hernandoabella/stop-the-bomb
+# 🎮 Mini-games
+- **[Stop The Bomb](https://stop-the-bomb.vercel.app/):** 
